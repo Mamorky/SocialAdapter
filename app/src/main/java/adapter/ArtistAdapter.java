@@ -30,7 +30,7 @@ import repositories.ArtistRepository;
  * Created by mamorky on 6/11/17.
  */
 
-/**Adapter de Artist*/
+/**Adapter de Artist */
 public class ArtistAdapter extends RecyclerView.Adapter<ArtistAdapter.ArtistViewHolder>{
 
     private ArrayList<Artist> artists;
